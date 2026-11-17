@@ -33,12 +33,12 @@ LibreTV/
 
 **方式一：安装包（推荐）**
 
-下载 `LibreTV_安装包_1.0.1_单文件.exe`，双击运行，选择安装目录，装完自动创建快捷方式。
+下载 `LibreTV-Setup-1.0.1.exe`，双击运行，选择安装目录，装完自动创建快捷方式。
 卸载：运行安装目录下的 `uninstall.exe`，或在「设置 → 应用」中找到 `LibreTV 便携版`。
 
 **方式二：便携版**
 
-下载 `LibreTV便携版_1.0.1.zip`，解压到任意位置，双击 `LibreTV.exe`。
+下载 `LibreTV-Portable-1.0.1.zip`，解压到任意位置，双击 `LibreTV.exe`。
 
 服务默认监听 `http://127.0.0.1:8080`，端口或下载目录可在 `config.ini` 中修改。
 
